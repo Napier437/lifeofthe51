@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fbddcda385d045b4a8f3cb2ec4dcc2cf
+guid: 3eef6c3d08b671647b1df970f7082a93
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -138,10 +138,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 291337
-  packageName: FolderColor
-  packageVersion: 2.0
-  assetPath: Assets/FolderColor/Whitefolder.png
-  uploadId: 709671

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 371ca6d7454458b4283206136e6b6007
+guid: 5ea68a77bcbea9e45a27340b16f5afca
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -138,10 +138,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 291337
-  packageName: FolderColor
-  packageVersion: 2.0
-  assetPath: Assets/FolderColor/OrangeFolder.png
-  uploadId: 709671

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bea1679c6231a0b459b3310a6433bd68
+guid: 5500cff77725f8044a8af4938a80099c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -138,10 +138,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 291337
-  packageName: FolderColor
-  packageVersion: 2.0
-  assetPath: Assets/FolderColor/FolderBlue.png
-  uploadId: 709671

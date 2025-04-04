@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3d69239ef32c13c4a88b41ed52fdc3a6
+guid: e1d7a3bd54961ac4187ecc38db1027c5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -138,10 +138,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 291337
-  packageName: FolderColor
-  packageVersion: 2.0
-  assetPath: Assets/FolderColor/GreenFolder.png
-  uploadId: 709671

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6fd939b77d57361489e8b1ec971abbe7
+guid: 36bb95cbe6c64e644a35a898681f3b1d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -138,10 +138,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 291337
-  packageName: FolderColor
-  packageVersion: 2.0
-  assetPath: Assets/FolderColor/YellowFolder.png
-  uploadId: 709671

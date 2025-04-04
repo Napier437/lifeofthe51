@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 321e1aaddc93d3648a799d5f76941001
+guid: ae66104c492bf69449ba6335c9b4c3d2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -138,10 +138,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 291337
-  packageName: FolderColor
-  packageVersion: 2.0
-  assetPath: Assets/FolderColor/FolderPurple.png
-  uploadId: 709671
